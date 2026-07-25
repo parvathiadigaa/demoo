@@ -3,3 +3,4 @@ j = paru;
 name = paru;
 hobby = photography;
 place = Bengaluru;
+clg = svit
