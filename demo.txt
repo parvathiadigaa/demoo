@@ -4,3 +4,4 @@ name = paru;
 hobby = photography;
 place = Bengaluru;
 clg = svit
+scl = tnces;
