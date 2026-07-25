@@ -1,1 +1,1 @@
-kandama
+j = p;
