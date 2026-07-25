@@ -1,1 +1,4 @@
 j = paru;
+
+name = paru;
+hobby = photography;
