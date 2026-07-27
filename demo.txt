@@ -5,4 +5,3 @@ hobby = photography;
 place = Bengaluru;
 scl = tnces;
 clg = svit
-
