@@ -5,3 +5,6 @@ hobby = photography;
 place = Bengaluru;
 scl = tnces;
 clg = svit
+
+
+This jaggu ma makes me loved always.
